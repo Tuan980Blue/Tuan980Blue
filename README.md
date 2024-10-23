@@ -1,8 +1,3 @@
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=17aaec&center=true&vCenter=true&width=435&lines=+Hi..+I'm+RainPauL;This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
-</div>
     ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/NZcQANkG) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100022912001889&mibextid=LQQJ4d) 
 
