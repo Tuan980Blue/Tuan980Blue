@@ -23,7 +23,7 @@
         <a href="https://www.facebook.com/tuananhhuflit/">
             <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" style="margin: 5px;">
         </a>
-        <a href="mailto:your-email@example.com">
+        <a href="mailto:tuanmeo980provip@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 5px;">
         </a>
    </div>
