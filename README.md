@@ -10,10 +10,25 @@
 ---
 
 ## 🌐 Kết nối với tôi
-<p align="center">
-    <a href="https://discord.gg/NZcQANkG"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-    <a href="https://www.facebook.com/tuananhhuflit/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
-</p>
+
+<div align="center">
+    <!-- Ảnh nền GIF động -->
+    <img src="https://github.com/Tuan980Blue/my-images/blob/main/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7a68595356436972524565495a744f4e43492f67697068792e676966.gif?raw=true" alt="Profile Image" width="150px" style="border-radius: 50%; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);">
+
+   <!-- Badge kết nối với hiệu ứng  -->
+   <div style="margin-top: 20px;">
+        <a href="https://discord.gg/NZcQANkG">
+            <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 5px;">
+        </a>
+        <a href="https://www.facebook.com/tuananhhuflit/">
+            <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" style="margin: 5px;">
+        </a>
+        <a href="mailto:your-email@example.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 5px;">
+        </a>
+   </div>
+</div>
+
 
 ---
 
