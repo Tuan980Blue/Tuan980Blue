@@ -8,17 +8,12 @@
 </p>
 
 ---
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Tuan980Blue&icon=0&color=0" alt="Visitor Count">
-</p>
-
----
 
 ## 🌐 Kết nối với tôi
 
 <div align="center">
     <!-- Ảnh nền GIF động -->
-    <img src="https://github.com/Tuan980Blue/my-images/blob/main/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7a68595356436972524565495a744f4e43492f67697068792e676966.gif?raw=true" alt="Profile Image" width="150px" style="border-radius: 50%; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);">
+    <img src="https://github.com/Tuan980Blue/Tuan980Blue/blob/6c447a44542048b8b92b50b96fad43bc88b585d2/images/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7a68595356436972524565495a744f4e43492f67697068792e676966.gif?raw=true" alt="Profile Image" width="150px" style="border-radius: 50%; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);">
 
    <!-- Badge kết nối với hiệu ứng  -->
    <div style="margin-top: 20px;">
@@ -84,5 +79,9 @@
 <p align="center">
     ✨ Cảm ơn vì đã ghé thăm! Đừng ngần ngại kết nối với tôi nhé! ✨
 </p>
-
 ---
+<p align="end">
+    <img src="https://visitcount.itsvg.in/api?id=Tuan980Blue&icon=0&color=0" alt="Visitor Count">
+</p>
+---
+
