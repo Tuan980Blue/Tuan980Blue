@@ -87,17 +87,3 @@
 </p>
 
 ---
-
-<style>
-@keyframes bounce {
-    0%, 100% {
-        transform: translateY(0);
-    }
-    50% {
-        transform: translateY(-10px);
-    }
-}
-.icon {
-    animation: bounce 2s infinite;
-}
-</style>
