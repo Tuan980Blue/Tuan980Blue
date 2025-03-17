@@ -80,8 +80,8 @@
     ✨ Cảm ơn vì đã ghé thăm! Đừng ngần ngại kết nối với tôi nhé! ✨
 </p>
 
-<p align="end">
-    <img src="https://visitcount.itsvg.in/api?id=Tuan980Blue&icon=0&color=0" alt="Visitor Count">
+<p align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lwcm9hNGt5NjM5YTc1bGxzeGFieDBudnlhejVxZ2NtNGw2MTRzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" alt="Thank You GIF">
 </p>
 
 
