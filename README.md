@@ -76,12 +76,12 @@
 
 ---
 
-<p align="center">
-    ✨ Cảm ơn vì đã ghé thăm! Đừng ngần ngại kết nối với tôi nhé! ✨
-</p>
+<div align="center" style="background: #f9f9f9; padding: 20px; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    <p style="font-size: 18px; font-weight: bold; color: #333;">
+        ✨ Cảm ơn vì đã ghé thăm! Đừng ngần ngại kết nối với tôi nhé! ✨
+    </p>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lwcm9hNGt5NjM5YTc1bGxzeGFieDBudnlhejVxZ2NtNGw2MTRzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" alt="Thank You GIF" style="border-radius: 10px; max-width: 100%;">
+</div>
 
-<p align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lwcm9hNGt5NjM5YTc1bGxzeGFieDBudnlhejVxZ2NtNGw2MTRzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" alt="Thank You GIF">
-</p>
 
 
