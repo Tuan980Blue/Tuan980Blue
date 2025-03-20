@@ -80,7 +80,7 @@
     <p style="font-size: 18px; font-weight: bold; color: #333;">
         ✨ Cảm ơn vì đã ghé thăm! Đừng ngần ngại kết nối với tôi nhé! ✨
     </p>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lwcm9hNGt5NjM5YTc1bGxzeGFieDBudnlhejVxZ2NtNGw2MTRzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" alt="Thank You GIF" style="border-radius: 10px; max-width: 100%;">
+    ![human-14369](https://github.com/user-attachments/assets/6a66bfa3-acbb-408c-932c-ce1aae0d1afc)
 </div>
 
 
