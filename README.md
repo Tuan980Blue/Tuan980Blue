@@ -80,7 +80,7 @@
     <p style="font-size: 18px; font-weight: bold; color: #333;">
         ✨ Cảm ơn vì đã ghé thăm! Đừng ngần ngại kết nối với tôi nhé! ✨
     </p>
-    ![human-14369](https://github.com/user-attachments/assets/6a66bfa3-acbb-408c-932c-ce1aae0d1afc)
+    <img src="https://github.com/Tuan980Blue/my-images/blob/main/human-14369.gif?raw=true" alt="Profile Image" width="550px" style="border-radius: 50%; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);">
 </div>
 
 
