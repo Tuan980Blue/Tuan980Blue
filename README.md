@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23FFD700&size=24&vCenter=true&lines=**Hello%2C+I'm+Tuan+Anh+Jr!**;**Welcome+to+my+GitHub+Profile!**" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23FFD700&size=24&vCenter=true&lines=**Hello%2C+I'm+Tuan+Anh+Jr!**;**Welcome+to+my+GitHub+Profile!**" alt="Typing SVG" style="font-weight:extrabold;">
 </p>
 
 ---
