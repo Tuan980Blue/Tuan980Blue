@@ -87,7 +87,7 @@
   <img src="https://img.shields.io/github/followers/Tuan980Blue?label=Followers&style=social" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/Tuan980Blue?label=Stars&style=social" alt="Stars"/>
   <br/><br/>
-  <strong>✨ Cảm ơn bạn đã ghé thăm! Hãy kết nối với tôi nhé! ✨</strong>
+  <strong>✨ Cảm ơn bạn đã xem Profile! Hãy kết nối với tôi nhé! ✨</strong>
   <br/><br/>
   <img src="https://github.com/Tuan980Blue/my-images/blob/main/human-14369.gif?raw=true" alt="Footer GIF" width="500"/>
 </div>
