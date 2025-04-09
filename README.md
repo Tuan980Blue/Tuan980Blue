@@ -14,16 +14,19 @@
   <img src="https://github.com/Tuan980Blue/Tuan980Blue/blob/6c447a44542048b8b92b50b96fad43bc88b585d2/images/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7a68595356436972524565495a744f4e43492f67697068792e676966.gif?raw=true" alt="Profile Image" width="150" style="border-radius: 50%;"/>
   
   <br/>
-  
+<p align="center">
   <a href="https://discord.gg/NZcQANkG">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://skillicons.dev/icons?i=discord" height="40"/>
   </a>
   <a href="https://www.facebook.com/tuananhhuflit/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
   </a>
   <a href="mailto:tuanmeo980provip@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
+</p>
+
+---
 </div>
 
 ---
