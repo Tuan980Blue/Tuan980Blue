@@ -15,16 +15,19 @@
   
   <br/>
 <p align="center">
-  <a href="https://discord.gg/NZcQANkG">
+  <a href="https://discord.gg/NZcQANkG" title="Discord">
     <img src="https://skillicons.dev/icons?i=discord" height="40"/>
   </a>
-  <a href="https://www.facebook.com/tuananhhuflit/">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+  &ensp;
+  <a href="https://www.facebook.com/tuananhhuflit/" title="Facebook">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
   </a>
-  <a href="mailto:tuanmeo980provip@gmail.com">
+  &ensp;
+  <a href="mailto:anhtuan21jr@gmail.com" title="Gmail">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
+
 
 ---
 </div>
