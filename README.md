@@ -95,7 +95,7 @@
   <img src="https://img.shields.io/github/stars/Tuan980Blue?label=Stars&style=social" alt="Stars"/>
   <br/><br/>
   <marquee behavior="scroll" direction="left" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
-  <strong>✨ Nếu bạn đã đến đây rồi! Hãy kết nối với tôi nhé! ✨</strong>
+  <strong>✨Hãy kết nối với tôi nhé! ✨</strong>
 </marquee>
   <br/><br/>
   <img src="https://github.com/Tuan980Blue/my-images/blob/main/human-14369.gif?raw=true" alt="Footer GIF" width="500"/>
